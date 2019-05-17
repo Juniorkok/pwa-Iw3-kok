@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>To do list</title>
+        <link rel="stylesheet" href="./styles/main.css">
+        <script type="module" href="./js/app.js"></script>
+    </head>
+
+    <body>
+        <div id="app">
+            <h3>My To do list</h3>
+            <input type="text" id="textField" placeholder="Read the text...">
+            <span onclick="addTodoElement()" class="add_button">Add</span>
+        </div>
+
+        <ul class="todo_list">
+            <li><input type="checkbox">Lunch</li>
+            <li><input type="checkbox">Shopping</li>
+            <li><input type="checkbox">Go to cinema</li>
+            <li><input type="checkbox">Go to home</li>
+        </ul>
+    </body>
+</html>

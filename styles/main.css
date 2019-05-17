@@ -1,0 +1,13 @@
+#app{
+    background-color: #bdb9f0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    font-color: #17143b;
+}
+input:checked{
+    background-color: #3c31b3;
+    font-color: white;
+}

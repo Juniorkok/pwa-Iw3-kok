@@ -1,0 +1,7 @@
+{
+    "todo": [
+        { "id": 0, "value": "make breakfast" },
+        { "id": 1, "value": "go to shopping" },
+        { "id": 2, "value": "prepare the diner" }
+    ]
+}

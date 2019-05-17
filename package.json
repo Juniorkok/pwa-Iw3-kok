@@ -1,0 +1,19 @@
+{
+  "name": "iw3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "generate": "npx workbox generateSW",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "workbox-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "idb": "^4.0.3",
+    "lowdb": "^1.0.0"
+  }
+}
